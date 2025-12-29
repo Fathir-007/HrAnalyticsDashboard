@@ -1,29 +1,35 @@
 # HR Analytics Dashboard (Power BI)
 
-Project Overview
+->Project Overview
 This project analyzes employee attrition using HR data to identify key trends and risk factors.
 
-Tools Used
+->Tools Used
 - Power BI
 - DAX
 - Power Query
 - Excel / CSV
 
-Key Insights
+->Key Insights
 - Highest attrition in age group 26–35
 - Employees with salary < 5K show higher attrition
 - Laboratory Technicians and Sales Executives are high-risk roles
 
-Data Cleaning
+->Data Cleaning
 - Removed null values
 - Created age groups and salary slabs
 - Standardized column names
 
-Dashboard Preview
+->Dashboard Preview
 https://github.com/Fathir-007/HrAnalyticsDashboard/blob/main/Overview.png?raw=true
 
-Dataset
+->Dataset
 Public HR dataset (IBM HR Analytics – modified)
 
+Created by,
 Abdul Fathir 
-Aspiring Data Analyst | Power BI | Data Visualization
+Aspiring Data Analyst
+
+▶️ How to View the Dashboard
+Download the .pbix file from this repository
+Open it using Power BI Desktop
+Interact with the dashboard visuals and filters
